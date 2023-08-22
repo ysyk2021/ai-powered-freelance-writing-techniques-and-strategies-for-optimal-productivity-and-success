@@ -1,5 +1,4 @@
-Types of AI Used for Freelance Writing
-=========================================================================================
+
 
 Artificial Intelligence (AI) technology offers many benefits to freelance writers, including increased efficiency, improved quality, better performance, and cost savings. In this chapter, we will discuss different types of AI used in freelance writing.
 

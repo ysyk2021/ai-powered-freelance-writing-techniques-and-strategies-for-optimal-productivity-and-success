@@ -1,5 +1,4 @@
-Chapter 8: AI Ethics and Governance for Freelance Writing
-=========================================================
+
 
 Ethical considerations for AI implementation in freelance writing
 -----------------------------------------------------------------
