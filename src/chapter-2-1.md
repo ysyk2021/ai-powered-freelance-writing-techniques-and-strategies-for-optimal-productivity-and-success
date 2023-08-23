@@ -1,5 +1,4 @@
 
-
 Artificial Intelligence (AI) is a rapidly evolving field that has the potential to transform many industries, including freelance writing. In this chapter, we will discuss what AI is and how it works.
 
 Definition of AI

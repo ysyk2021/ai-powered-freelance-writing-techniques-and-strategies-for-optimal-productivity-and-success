@@ -1,5 +1,4 @@
 
-
 Artificial Intelligence (AI) has the potential to transform the freelance writing industry by improving productivity, efficiency, and effectiveness. In this chapter, we will discuss what AI is, the different types of AI used in freelance writing, and the benefits of using AI to improve productivity and success.
 
 Definition of AI

@@ -1,5 +1,4 @@
 
-
 Before implementing AI technology in freelance writing, it is important to evaluate the availability and quality of data. In this chapter, we will discuss how to prepare yourself for AI implementation by evaluating data availability and quality.
 
 Assessing Data Availability

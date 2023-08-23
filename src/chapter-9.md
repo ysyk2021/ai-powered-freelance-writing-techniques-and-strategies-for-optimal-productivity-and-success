@@ -1,5 +1,4 @@
 
-
 Ethical considerations for AI implementation in freelance writing
 -----------------------------------------------------------------
 
