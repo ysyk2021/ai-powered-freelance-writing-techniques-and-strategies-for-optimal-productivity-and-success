@@ -1,5 +1,4 @@
-Chapter 4: Types of AI Used for Freelance Writing
-=================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the different types of AI (Artificial Intelligence) that are commonly used in freelance writing. These AI technologies and techniques play a crucial role in optimizing productivity and achieving success in freelance writing endeavors.
 

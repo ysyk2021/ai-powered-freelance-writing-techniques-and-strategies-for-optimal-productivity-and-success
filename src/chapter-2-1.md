@@ -1,5 +1,4 @@
-Chapter 2: Definition of AI
-===========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the definition and concept of AI (Artificial Intelligence), providing a foundational understanding of this transformative technology. Understanding what AI encompasses is crucial for freelance writers looking to leverage its power in their writing processes.
 

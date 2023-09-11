@@ -1,5 +1,4 @@
-Chapter 8: Assessing the Effectiveness of AI for Freelance Writing
-==================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the process of assessing the effectiveness of AI (Artificial Intelligence) for freelance writing. Evaluating the impact and outcomes of AI implementation is crucial to determine its value in enhancing productivity, efficiency, and success in the freelance writing realm.
 

@@ -1,5 +1,4 @@
-Chapter 3: Assessing Your Freelance Writing Needs and Goals
-===========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of assessing your freelance writing needs and goals when utilizing AI (Artificial Intelligence) powered techniques and strategies. Understanding your specific requirements and objectives is crucial for effectively leveraging AI tools to enhance productivity and achieve optimal success in your freelance writing journey.
 

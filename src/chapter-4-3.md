@@ -1,5 +1,4 @@
-Chapter 8: Case Studies of Successful AI Implementations in Freelance Writing
-=============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into case studies that demonstrate successful implementations of AI in freelance writing. These real-life examples highlight how AI-powered tools and techniques have transformed the freelance writing landscape, enabling writers to enhance their productivity, improve content quality, and achieve greater success in their careers.
 

@@ -1,5 +1,4 @@
-Chapter 12: Case Studies of Successful AI Implementations in Editing and Proofreading
-=====================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore case studies that highlight successful implementations of AI (Artificial Intelligence) in editing and proofreading. These real-world examples demonstrate how AI-powered tools and techniques have significantly improved the editing and proofreading processes, leading to enhanced productivity, accuracy, and overall success for freelance writers.
 

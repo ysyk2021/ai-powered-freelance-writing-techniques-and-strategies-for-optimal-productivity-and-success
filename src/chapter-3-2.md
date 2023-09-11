@@ -1,5 +1,4 @@
-Chapter 5: Evaluating Data Availability and Quality
-===================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of evaluating data availability and quality for freelance writers utilizing AI (Artificial Intelligence) powered techniques and strategies. Effective evaluation of data ensures that writers have access to reliable, relevant, and high-quality data, which is essential for maximizing the benefits of AI tools and achieving optimal productivity and success.
 

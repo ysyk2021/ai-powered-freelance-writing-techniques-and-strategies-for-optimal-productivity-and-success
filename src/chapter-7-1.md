@@ -1,5 +1,4 @@
-Chapter 10: Overview of AI Applications for Editing and Proofreading
-====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will provide an overview of the various AI (Artificial Intelligence) applications that can significantly enhance the editing and proofreading processes in freelance writing. By leveraging AI-powered tools, writers can improve the accuracy, efficiency, and quality of their editing and proofreading tasks.
 

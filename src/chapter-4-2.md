@@ -1,5 +1,4 @@
-Chapter 10: Key Factors to Consider When Choosing AI Tools
-==========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the key factors that freelance writers should consider when selecting AI tools for their writing processes. Making informed decisions about which AI tools to use is essential to ensure optimal productivity and success in freelance writing. By taking these factors into account, writers can choose AI tools that align with their specific needs and contribute to their overall effectiveness.
 

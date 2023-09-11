@@ -1,5 +1,4 @@
-Chapter 10: Legal and Regulatory Considerations for AI Implementation in Freelance Writing
-==========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the important legal and regulatory considerations that freelance writers must take into account when implementing AI (Artificial Intelligence) in their writing techniques and strategies. Understanding and complying with applicable laws and regulations are crucial for ensuring ethical and responsible use of AI-powered tools.
 

@@ -1,5 +1,4 @@
-Chapter 8: Using AI Algorithms for Data Analysis and Pattern Recognition in Freelance Writing
-=============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how freelance writers can leverage AI (Artificial Intelligence) algorithms for data analysis and pattern recognition. By harnessing the power of AI, writers can gain valuable insights from data, identify meaningful patterns, and make informed decisions to optimize their writing processes.
 

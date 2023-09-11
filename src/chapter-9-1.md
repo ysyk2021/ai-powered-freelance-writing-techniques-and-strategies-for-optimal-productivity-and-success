@@ -1,5 +1,4 @@
-Chapter 6: Ethical Considerations for AI Implementation in Freelance Writing
-============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the ethical considerations that freelance writers should be mindful of when implementing AI (Artificial Intelligence) in their writing techniques and strategies. As AI becomes increasingly prevalent in the field of writing, it is crucial to ensure ethical practices are followed to maintain integrity, fairness, and responsible use of AI-powered tools.
 

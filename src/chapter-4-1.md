@@ -1,5 +1,4 @@
-Chapter 3: Overview of AI Tools and Technologies for Freelance Writing
-======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will provide an overview of the various AI tools and technologies that can significantly enhance freelance writing productivity and success. These cutting-edge AI solutions offer valuable assistance in generating ideas, improving writing quality, managing workflow, and streamlining repetitive tasks. Understanding these tools and leveraging their capabilities can empower freelance writers to optimize their productivity and achieve greater success in their craft.
 
